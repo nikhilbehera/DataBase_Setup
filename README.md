@@ -55,7 +55,4 @@ python database.py
 - Learn how Python communicates with databases.
 - Practice database operations using Python.
 
-## Author
-Nikhil Kumar Behera
-
 GitHub: https://github.com/nikhilbehera
